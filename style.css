@@ -1,0 +1,42 @@
+body{
+    background-color: #eaf7ff;
+    font-family: sans-serif;
+    margin: 40px;
+}
+
+h1{
+    color: #5146eb;
+}
+
+img{
+    width: 300px;
+    border-radius: 15px;
+}
+
+button{
+    font-size: 16px;
+    padding: 10px 20px;
+}
+
+.profile-card{
+    background-color:  lightblue;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 15px;
+    width: 300px;
+}
+
+.detail-button {
+    background-color: #5fa8d3;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.detail-button:hover {
+    background-color: #357ca5;
+}
