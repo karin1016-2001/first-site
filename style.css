@@ -40,3 +40,16 @@ button{
 .detail-button:hover {
     background-color: #357ca5;
 }
+
+body.dark-mode {
+    background-color: #1f2937;
+    color: white;
+}
+
+body.dark-mode .profile-card {
+    background-color: #374151;
+}
+
+body.dark-mode a {
+    color: #8bd3ff;
+}
